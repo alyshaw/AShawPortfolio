@@ -75,12 +75,14 @@ These three data visualizations when read together respectively show a 1) snapsh
 ## Final Project: Part 1
 
 [![Final-Stories-Project.png](https://i.postimg.cc/LstDG8nb/Final-Stories-Project.png)](https://postimg.cc/KKYtMF7P)
+[![Shorthandpage2.png](https://i.postimg.cc/1tLGvgQT/Shorthandpage2.png)](https://postimg.cc/gXHLJ2rq)
 
 # Data
 
 For this project I plan to use data from two sources: UNICEF Reports on Global Water Access and Urbanization and the Global Freshwater Initiative, a Program of the Standford Woods Institute for the Environment. I chose these sources because they had comprehensive yet simple data on clean drinking water access over time around the world and an assessment on future freshwater availability in the global south.
 
 UNICEF: https://data.unicef.org/topic/water-and-sanitation/drinking-water/
+
 Global Freshwater Initiative: https://iopscience.iop.org/article/10.1088/1748-9326/10/10/104014/pdf
 
 I plan to use the UNICEF data on basic drinking water access in the global south from 2000 to 2017, data on percent change in urbanization, and change in piping (water infrastructure). I plan to extract data from the information from the map on page 6 to display freshwater vulnerabilities in the global south. Comparing these data, I will tell the story of progress and future challenges of water access for populations in the global south. 
