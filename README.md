@@ -74,6 +74,8 @@ These three data visualizations when read together respectively show a 1) snapsh
 
 ## Final Project: Part 1
 
+![finalprojecttemplate](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1mqabpd1bb0qt#attid%253Datt_16c20d9ae9ea6760_0.1_f_jygd49ju0)
+
 # Data
 
 For this project I plan to use data from two sources: UNICEF Reports on Global Water Access and Urbanization and the Global Freshwater Initiative, a Program of the Standford Woods Institute for the Environment. I chose these sources because they had comprehensive yet simple data on clean drinking water access over time around the world and an assessment on future freshwater availability in the global south.
