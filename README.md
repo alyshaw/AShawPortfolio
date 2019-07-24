@@ -75,7 +75,7 @@ These three data visualizations when read together respectively show a 1) snapsh
 ## Final Project: Part 1
 
 [![Final-Stories-Project.png](https://i.postimg.cc/LstDG8nb/Final-Stories-Project.png)](https://postimg.cc/KKYtMF7P)
-[![Shorthandpage2.png](https://i.postimg.cc/1tLGvgQT/Shorthandpage2.png)](https://postimg.cc/gXHLJ2rq)
+[![Shorthand-Template2.png](https://i.postimg.cc/yNq9CMrc/Shorthand-Template2.png)](https://postimg.cc/dhBD8xFV)
 
 # Data
 
