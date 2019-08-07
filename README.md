@@ -79,3 +79,7 @@ I plan to use the UNICEF data on basic drinking water access in the global south
 # Method and Medium
 
 I plan to display my data using Shorthand. For graphics involving a map I found infogram easy to use and plan on using that platform to create an interactive map of the global south. To show trends in urbanization and increasingly inadequate water infrastructure I plan to use Datawrapper's arrow plot or dot plot. 
+
+## Final Project 
+
+[The Future of Water](https://alyshaw.github.io/AlyShawFinalProject/)
